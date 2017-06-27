@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JokesKotlin-master</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="toolbartitle">学习</string>
+    <string name="dreamlive">dreamlivemeng</string>
+    <!--tab数据-->
+    <string name="joke">android</string>
+    <string name="welfare">福利</string>
+    <string name="random">所有分类</string>
+</resources>

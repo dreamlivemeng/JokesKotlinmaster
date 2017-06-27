@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings_welfare"
+        android:orderInCategory="100"
+        android:title="福利"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_android"
+        android:orderInCategory="100"
+        android:title="Android"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_ios"
+        android:orderInCategory="100"
+        android:title="iOS"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_video"
+        android:orderInCategory="100"
+        android:title="休息视频"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_expand_resoureces"
+        android:orderInCategory="100"
+        android:title="拓展资源"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_qd"
+        android:orderInCategory="100"
+        android:title="前端 "
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_all"
+        android:orderInCategory="100"
+        android:title="所有类型"
+        app:showAsAction="never" />
+</menu>
